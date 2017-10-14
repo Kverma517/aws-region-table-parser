@@ -35,7 +35,7 @@ module.exports = {
   'Amazon WorkMail' : 'workmail',
   'Amazon WorkSpaces' : 'workspaces',
   'Auto Scaling' : 'value',
-  'AWS Certificate Manager' : 'certificate-manager',
+  'AWS Certificate Manager' : 'acm',
   'AWS CloudFormation' : 'cloudformation',
   'AWS CloudHSM' : 'cloudhsm',
   'AWS CloudTrail' : 'cloudtrail',
