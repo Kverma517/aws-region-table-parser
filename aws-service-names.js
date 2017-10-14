@@ -34,7 +34,7 @@ module.exports = {
   'Amazon WorkDocs' : 'workdocs',
   'Amazon WorkMail' : 'workmail',
   'Amazon WorkSpaces' : 'workspaces',
-  'Auto Scaling' : 'value',
+  'Auto Scaling' : 'autoscaling',
   'AWS Certificate Manager' : 'acm',
   'AWS CloudFormation' : 'cloudformation',
   'AWS CloudHSM' : 'cloudhsm',
@@ -58,4 +58,5 @@ module.exports = {
   'AWS Support' : 'support',
   'Elastic Load Balancing' : 'elb',
   'VM Import/Export' : 'importexport',
+  'Amazon Elastic File System (EFS)': 'efs',
 };
